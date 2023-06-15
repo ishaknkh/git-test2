@@ -6,6 +6,7 @@
     <title>Test Git Remote</title>
 </head>
 <body>
-    <p>Hello World!!</p>
+    <h1>Hello World</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim earum quae eaque, id dignissimos iste, cumque rem obcaecati minus officia consectetur magni eum! Voluptates vero architecto praesentium sed enim quos?</p>
 </body>
 </html>
